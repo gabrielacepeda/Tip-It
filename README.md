@@ -1,8 +1,10 @@
 # TIPIT
 <h1 align="center">
-   Tipping made easy
+   TIPIT
     </h1>
-
+<h2 align="center">
+   Tipping made easy
+    </h2>
 ![tip it preview](https://github.com/gabrielacepeda/Tip-It/blob/master/screenshot.png)
 <p align="center">
     <img width=30% src="assets/screen.png">
