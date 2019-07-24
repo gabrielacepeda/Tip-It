@@ -1,8 +1,8 @@
 # Tip-It
-<p align="center>
+
 ![Tip It preview](https://github.com/gabrielacepeda/Tip-It/blob/master/assets/screen.png)
-![](https://github.com/gabrielacepeda/Tip-It/blob/master/screenshot.png)
-  </p>
+![tip it](https://github.com/gabrielacepeda/Tip-It/blob/master/screenshot.png)
+  
 A simple app that lets you select desired tip percentage and then the total number of people splitting the bill.
 
 ## How It's Made:
