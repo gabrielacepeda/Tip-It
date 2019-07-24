@@ -7,9 +7,9 @@ A simple app that lets you select desired tip percentage and then the total numb
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript
+**Tech used:** HTML, CSS, JavaScript.
 
-I used HTML, CSS and JavaScript to create this app. On page load, the user can the weather is displayed using your location, as well as the current time.
+I used HTML, CSS and JavaScript to create this app. The user can enter the bill amount, tip desired and number of people splitting the bill to calculate tp percentage. If the user clicks the calculate button, and any input field is left empty, an error message displays.
 
 
 ## Lessons Learned:
