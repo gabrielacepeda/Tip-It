@@ -1,6 +1,5 @@
 # Tip-It
 
-Calculate and split tip.
 ![Tip It preview](https://github.com/gabrielacepeda/Tip-It/blob/master/assets/screen.png)   
 ![Tip It preview](https://github.com/gabrielacepeda/Tip-It/blob/master/home.png)
 
