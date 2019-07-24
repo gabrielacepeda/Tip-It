@@ -1,4 +1,6 @@
-# Tip-It
+<p align="center>
+          TIPIT
+          </p>
 
 ![Tip It preview](https://github.com/gabrielacepeda/Tip-It/blob/master/assets/screen.png)
 ![tip it](https://github.com/gabrielacepeda/Tip-It/blob/master/screenshot.png)
