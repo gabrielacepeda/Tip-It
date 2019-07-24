@@ -19,7 +19,7 @@ This app lets you enter the bill total, select desired tip percentage and the to
 
 **Tech used:** HTML, CSS, JavaScript.
 
-I used HTML, CSS and JavaScript to create this app. The user can enter the bill amount, tip desired and number of people splitting the bill to calculate tp percentage. If the user clicks the calculate button, and any input field is left empty, an error message displays.
+I used HTML, CSS and JavaScript to create this app. The user can enter the bill amount, tip desired and number of people splitting the bill to calculate tip percentage. If the user clicks the calculate button and any input field is left empty, an error message displays.
 
 
 ## Lessons Learned:
