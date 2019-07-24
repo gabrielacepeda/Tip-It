@@ -1,5 +1,7 @@
 # TIPIT
-
+<p align="center">
+   Tipping made easy
+    </p>
 
 ![tip it preview](https://github.com/gabrielacepeda/Tip-It/blob/master/screenshot.png)
 <p align="center">
@@ -7,7 +9,7 @@
     </p>
 
   
-A simple app that lets you select desired tip percentage and then the total number of people splitting the bill.
+This app lets you enter the bill total, select desired tip percentage and the total number of people splitting the bill. It's that easy!
 
 ## How It's Made:
 
