@@ -1,7 +1,7 @@
 # TIPIT
 
-![Tip It preview](https://github.com/gabrielacepeda/Tip-It/blob/master/assets/screen.png)
-![tip it](https://github.com/gabrielacepeda/Tip-It/blob/master/screenshot.png)
+
+![tip it preview](https://github.com/gabrielacepeda/Tip-It/blob/master/screenshot.png)
 <p align="center">
     <img width=30% src="assets/screen.png">
     </p>
