@@ -1,8 +1,8 @@
 # Tip-It
 
 Calculate and split tip.
-![weather app preview](https://github.com/gabrielacepeda/Tip-It/blob/master/assets/screen.png)
-(https://github.com/gabrielacepeda/Tip-It/blob/master/home.png)
+![Tip It preview](https://github.com/gabrielacepeda/Tip-It/blob/master/assets/screen.png)   
+![Tip It preview](https://github.com/gabrielacepeda/Tip-It/blob/master/home.png)
 
 A simple app that lets you select desired tip percentage and then the total number of people splitting the bill.
 
