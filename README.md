@@ -1,4 +1,4 @@
-# TIPIT
+
 <h1 align="center">
    TIPIT
     </h1>
