@@ -1,7 +1,7 @@
 # TIPIT
-<p align="center">
+<h1 align="center">
    Tipping made easy
-    </p>
+    </h1>
 
 ![tip it preview](https://github.com/gabrielacepeda/Tip-It/blob/master/screenshot.png)
 <p align="center">
