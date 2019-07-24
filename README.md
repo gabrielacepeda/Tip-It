@@ -2,7 +2,9 @@
 
 ![Tip It preview](https://github.com/gabrielacepeda/Tip-It/blob/master/assets/screen.png)
 ![tip it](https://github.com/gabrielacepeda/Tip-It/blob/master/screenshot.png)
-    <img width=50% src="assets/screen.png">
+<p align="center">
+    <img width=30% src="assets/screen.png">
+    </p>
 
   
 A simple app that lets you select desired tip percentage and then the total number of people splitting the bill.
